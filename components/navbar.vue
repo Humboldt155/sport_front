@@ -103,7 +103,7 @@
 <script>
 
     export default {
-        name: "Navbar.vue"
+        name: "navbar.vue"
     }
 </script>
 
